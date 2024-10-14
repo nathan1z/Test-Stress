@@ -1,0 +1,8 @@
+tmp/*
+*.log
+tags
+*.pyc
+*.swp
+benchrun_daemon.conf
+
+node_modules
